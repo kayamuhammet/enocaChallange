@@ -1,4 +1,11 @@
 # enocaChallange
+
+- Lombok 
+- Spring Data JPA
+- Spring Web
+- PostgreSQL Driver
+- Spring Boot DevTools
+
 ## GET
 
 ![image](https://user-images.githubusercontent.com/66886314/208278480-258d4dec-1ed6-46e6-8265-3287f151e1fb.png)
